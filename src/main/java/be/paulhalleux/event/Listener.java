@@ -1,3 +1,5 @@
+package be.paulhalleux.event;
+
 /**
  * Permet d'identifier une classe qui contient
  * des méthodes à exécuter lors d'un appel d'évènement.

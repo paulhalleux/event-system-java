@@ -1,3 +1,5 @@
+package be.paulhalleux.event.options;
+
 /**
  * Interface applicable à un objet dont
  * une action peut-être annulée.

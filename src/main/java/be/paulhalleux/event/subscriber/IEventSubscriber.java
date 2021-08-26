@@ -1,3 +1,8 @@
+package be.paulhalleux.event.subscriber;
+
+import be.paulhalleux.event.Event;
+import be.paulhalleux.event.Listener;
+
 /**
  * Interface d'un event subscriber qui gère l'abonnement
  * des différents évènements à celui-ci.

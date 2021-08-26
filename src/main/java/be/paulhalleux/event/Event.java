@@ -1,3 +1,5 @@
+package be.paulhalleux.event;
+
 /**
  * Classe abstraite représentant un event.
  * Elle permet de récupérer le nom de l'évent (nom de la class)

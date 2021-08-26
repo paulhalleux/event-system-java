@@ -1,3 +1,9 @@
+package be.paulhalleux.event.subscriber;
+
+import be.paulhalleux.event.Event;
+import be.paulhalleux.event.EventHandler;
+import be.paulhalleux.event.Listener;
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
